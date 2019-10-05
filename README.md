@@ -17,13 +17,13 @@ and then run the code.
 # Results
 <img src="Results\CNN_Learn.gif" width="400" height="400"/><img src="Results\CapsNet_Learn.gif" width="400" height="400"/>
 
-<img src="Results\acc_train.png" width="400" height="400"/><img src="Results\acc_val.png" width="400" height="400"/>
+<img src="Results\acc-train.png" width="400" height="400"/><img src="Results\acc-val.png" width="400" height="400"/>
 
-<img src="Results\loss_train.png" width="400" height="400"/><img src="Results\loss_val.png" width="400" height="400"/>
+<img src="Results\loss-train.png" width="400" height="400"/><img src="Results\loss-val.png" width="400" height="400"/>
 
-<img src="Results\pred_train.png" width="400" height="400"/><img src="Results\pred_val.png" width="400" height="400"/>
+<img src="Results\pred-train.png" width="400" height="400"/><img src="Results\pred-val.png" width="400" height="400"/>
 
-<img src="Results\nash-1.png" width="200" height="200"/><img src="Results\nash-2.png" width="200" height="200"/><img src="Results\nash-3.png" width="200" height="200"/>
+<img src="Results\nash-1.png" width="275" height="200"/><img src="Results\nash-2.png" width="275" height="200"/><img src="Results\nash-3.png" width="275" height="200"/>
 
 # Acknowledgment
 We would like to recognize the funding support provided by the Science & Engineering Research Board, a statutory body of the Department of Science & Technology (DST), Government of India, SERB file number ECR/2016/000637.
